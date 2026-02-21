@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daily Tasks</string>
+    <string name="refresh_tasks">Refresh Tasks</string>
+    <string name="no_tasks">No tasks yet</string>
+</resources>
